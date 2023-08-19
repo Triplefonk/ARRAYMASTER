@@ -5,6 +5,7 @@ public class Kfs {
         int k = 0x33E4F;
         System.out.println(k);
         System.out.println();
+        System.out.println();
 
     }
 
