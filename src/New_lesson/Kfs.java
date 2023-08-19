@@ -6,6 +6,7 @@ public class Kfs {
         System.out.println(k);
         System.out.println();
         System.out.println();
+        System.out.println();
 
     }
 
